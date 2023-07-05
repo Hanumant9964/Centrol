@@ -1,3 +1,26 @@
+# git config --list 
+#git init
+
+2) Check git status
+#git status
+
+3) Add file or directory to git hub.
+#git add . or (filename)
+
+4) git commit what are you changed in codes or file
+#git commit -m "my 1st commit"
+
+5) checking the git logs.
+#git log
+
+6) what code change who chane it gives detailed information of the changes in file, it shows
+#git shows <commit id>
+
+7)Adding the remote repository.
+#git remote add origin(Centrol git url)
+
+8) push the code master branch
+#git push -u origin master (Enter user name & password)
 1) git init command is use to initiate 
 directory which we want push the code to version control git.
 ---> Before git init select directory which you want, and create some data file.

@@ -1,0 +1,26 @@
+Interview Call from CGI
+Dear candidate,
+
+I hope this message finds you well.
+My name is Dharitri and I’m part of CGI Staffing team Bangalore.
+
+I was wondering if you'd be interested in Devops and OpenShift Requirement that we have open.
+
+Job Description:
+
+• Design, deploy and operate PaaS (container platform orchestration on cloud, must be experienced hand on Kubernetes or AKS and OpenShift platform) in private & public cloud for Production environment
+• Build, operate and scale OpenShift platforms (PaaS) in multiple regions
+• Industrialize (automate) platform operations and deployment
+• Lifecycle management of OpenShift clusters
+• Provide consultancy to applications to assist migration to the platform
+• Expertise in OpenShift/Kubernetes to troubleshoot network, security, infrastructure issues
+• Manage the SLA of platforms at five nine’s ( 99.999 uptime)
+• Build a FINOPS based operational model
+• Using GITOPS to transform change management at scale.
+• Define and implement relevant monitoring and alerting for IaaS & PaaS
+• Hands-on experience on Openshift cluster installation , upgrades and monitoring
+• Define and evangelize cloud-related optimizations and best practices to improve reliability, stability and performance
+• Work closely with Architects and Software Engineers from various product teams to implement new initiatives
+• Participate in the validation and deployment of new ACS and OpenShift deliveries. Ensure that the PaaS setup and capacity evolve in a way that provides the proper level of service to the applications.
+• Automate all actions possible, to increase efficiency, limit human errors, while providing traceability of actions
+• Contribute to architecture and technical designs by providing operability feedback.
