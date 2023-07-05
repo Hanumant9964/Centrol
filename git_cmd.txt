@@ -1,0 +1,6 @@
+1) git init command is use to initiate 
+directory which we want push the code to version control git.
+---> Before git init select directory which you want, and create some data file.
+#git init
+
+2) 
